@@ -1,7 +1,7 @@
 ## Music Player ZingMp3
 
 ### UPDATE NEW VERSION V2.0.2
-
+Demo: https://zingmusic.vercel.app/ or https://musictes-gamma.vercel.app/
 ### Support Get API
 
 - Get Song:
